@@ -1,0 +1,17 @@
+SMAP
+ManageCustomers_jsp.java
+JSP
+*S JSP
+*F
++ 0 ManageCustomers.jsp
+ManageCustomers.jsp
+*L
+1,72:45
+73,17:118
+89,2:135
+91,5:137,3
+96:152,9
+97,2:161
+99,9:164
+107,33:173
+*E
